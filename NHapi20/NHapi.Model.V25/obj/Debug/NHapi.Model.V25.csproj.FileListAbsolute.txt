@@ -1,0 +1,9 @@
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\bin\Debug\NHapi.Model.V25.XML
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\bin\Debug\NHapi.Model.V25.dll
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\bin\Debug\NHapi.Model.V25.pdb
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\bin\Debug\NHapi.Base.dll
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\bin\Debug\NHapi.Base.pdb
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\bin\Debug\NHapi.Base.xml
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\obj\Debug\NHapi.Model.V25.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\obj\Debug\NHapi.Model.V25.dll
+C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Model.V25\obj\Debug\NHapi.Model.V25.pdb
