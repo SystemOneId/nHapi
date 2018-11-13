@@ -1,7 +1,0 @@
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\bin\Debug\NHapi.Base.dll.config
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\bin\Debug\NHapi.Base.XML
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\bin\Debug\NHapi.Base.dll
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\bin\Debug\NHapi.Base.pdb
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\obj\Debug\NHapi.Base.dll
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\obj\Debug\NHapi.Base.pdb
-C:\Users\Bryan\projects\SystemOne\GxAlert\nHapi\NHapi20\NHapi.Base\obj\Debug\NHapi.Base.csprojResolveAssemblyReference.cache
