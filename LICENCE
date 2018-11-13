@@ -1,6 +1,6 @@
------------------------------------------------------------------------------------
 nHapi (Modified) - NHapi allows Microsoft .NET developers to easily use an HL7 2.x object model.
-    Copyright (c) Duane Edwards
+-----------------------------------------------------------------------------------
+    Copyright (c) Duane Edwards & SystemOne Technology, Inc.
     https://github.com/SystemOneId/nHapi.git (copied from https://github.com/duaneedwards/nHapi.git)
     MPL-2.0 License
 -----------------------------------------------------------------------------------
